@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[3237],{9754:(e,n,t)=>{t.r(n),t.d(n,{default:()=>a});var c=t(7294),r=t(6550);function a(){return c.createElement(r.l_,{to:"/gentle-intro-dao-governance"})}}}]);
