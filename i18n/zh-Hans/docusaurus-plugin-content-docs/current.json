@@ -1,0 +1,34 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.sidebar.category.Arbitrum Aligned Entities": {
+    "message": "Arbitrum Aligned Entities",
+    "description": "The label for category Arbitrum Aligned Entities in sidebar sidebar"
+  },
+  "sidebar.sidebar.category.Arbitrum BoLD economics guides": {
+    "message": "Arbitrum BoLD economics guides",
+    "description": "The label for category Arbitrum BoLD economics guides in sidebar sidebar"
+  },
+  "sidebar.sidebar.category.How-to guides": {
+    "message": "How-to guides",
+    "description": "The label for category How-to guides in sidebar sidebar"
+  },
+  "sidebar.sidebar.category.Governance concepts": {
+    "message": "Governance concepts",
+    "description": "The label for category Governance concepts in sidebar sidebar"
+  },
+  "sidebar.sidebar.category.Governance architecture": {
+    "message": "Governance architecture",
+    "description": "The label for category Governance architecture in sidebar sidebar"
+  },
+  "sidebar.sidebar.link.Sybil detection": {
+    "message": "Sybil detection",
+    "description": "The label for link Sybil detection in sidebar sidebar, linking to https://github.com/ArbitrumFoundation/sybil-detection"
+  },
+  "sidebar.sidebar.link.Smart contract architecture": {
+    "message": "Smart contract architecture",
+    "description": "The label for link Smart contract architecture in sidebar sidebar, linking to https://github.com/ArbitrumFoundation/governance/blob/main/docs/overview.md"
+  }
+}

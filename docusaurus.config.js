@@ -14,7 +14,7 @@ const config = {
   tagline: 'Decentralized governance is cool',
   url: 'https://docs.arbitrum.foundation',
   baseUrl: '/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   markdown: {
@@ -26,7 +26,7 @@ const config = {
   // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en'],
+    locales: ["en", "zh-Hans"],
   },
   plugins: ["docusaurus-plugin-less", [require.resolve('docusaurus-lunr-search'), {
     indexBaseUrl: true
